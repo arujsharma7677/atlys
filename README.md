@@ -1,7 +1,5 @@
 # Next JS App Router => 14.2.5
 
-# TODO
-1. Update package name in package.json
 
 # Requirements
 1. Node version => 18.17 or later
